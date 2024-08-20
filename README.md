@@ -88,7 +88,7 @@ ai_brain.fit(X_train1, y_train,epochs = 1000)
 ```
 ## Dataset Information
 
-![img](Dataset.png)
+![alt text](Images/Dataset.png)
 
 ## OUTPUT
 
