@@ -11,7 +11,7 @@ Design and implement a neural network regression model to accurately predict a c
 
 ## Neural Network Model
 
-![alt text](Images/nn.svg)
+![MODEL](./Images/nn.svg)
 
 ## DESIGN STEPS
 
